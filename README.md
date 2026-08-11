@@ -24,7 +24,7 @@ software-engineering-path/
 
 **Official docs**
 - [Java SE](https://jenkov.com/tutorials/java/syntax.html)
-- [Computer Science Roadmap: ](https://roadmap.sh/computer-science/)
+- [Computer Science Roadmap](https://roadmap.sh/computer-science/)
 
 **Practice platforms**
 - [LeetCode](https://leetcode.com/)
