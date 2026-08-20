@@ -31,3 +31,28 @@ software-engineering-path/
 
 **Learning references**
 - [Java Design Patterns](https://refactoring.guru/refactoring/)
+
+
+
+**Homework**
+- 20.08.26:
+  - read module1 folder ppts
+  - read titles from https://jenkov.com/tutorials/java/syntax.html:
+    Your First Java App
+    Java Main Method
+    Java Project Overview, Compilation and Execution
+    Java Core Concepts
+    Java Syntax
+    Java Variables
+    Java Data Types
+    Java Math Operators and Math Class
+    Java Arrays
+    Java String
+    Java Operations
+    Java if statements
+    Java Ternary Operator
+    Java switch Statements
+    Java instanceof operator
+    Java for Loops
+    Java while Loops
+  - watch https://www.youtube.com/watch?v=ut74oHojxqo
