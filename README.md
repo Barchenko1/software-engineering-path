@@ -56,3 +56,4 @@ software-engineering-path/
     Java for Loops
     Java while Loops
   - watch https://www.youtube.com/watch?v=ut74oHojxqo
+  - play git game part "Introduction Sequence": https://learngitbranching.js.org/ 
