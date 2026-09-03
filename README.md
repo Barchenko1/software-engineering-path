@@ -57,3 +57,5 @@ software-engineering-path/
     Java while Loops
   - watch https://www.youtube.com/watch?v=ut74oHojxqo
   - play git game part "Introduction Sequence": https://learngitbranching.js.org/ 
+- 03.09.26:
+  - read 02_wrappers.pptx and 02_OOP_classes.pptx in module 2 folder
