@@ -59,3 +59,5 @@ software-engineering-path/
   - play git game part "Introduction Sequence": https://learngitbranching.js.org/ 
 - 03.09.26:
   - read 02_wrappers.pptx and 02_OOP_classes.pptx in module 2 folder
+- 13.10.26:
+  - read CTECH.01_UML_Fundamentals_content.pdf in module 3 folder
