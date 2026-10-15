@@ -61,3 +61,6 @@ software-engineering-path/
   - read 02_wrappers.pptx and 02_OOP_classes.pptx in module 2 folder
 - 13.10.26:
   - read CTECH.01_UML_Fundamentals_content.pdf in module 3 folder
+- 15.10.25
+  - read 04_Generics.pptx in module 4 folder
+  - create new folder with classes for each diagram in practice.module3 folder
